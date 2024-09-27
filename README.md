@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalash Sharma</h1>
-#💫 About Me:
+
+<h2>💫 About Me:</h2>
 🔭 I’m currently working on The Bunker<br><br>🌱 I’m currently learning Javascript Frameworks<br><br>👯 I’m looking to collaborate on Github, Twitter, LinkedIn<br><br>👨‍💻 My projects are Coming Soon!<br><br>📫 How to reach me kalashmashup@gmail.com
 
 
